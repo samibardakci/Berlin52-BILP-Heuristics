@@ -1,0 +1,17 @@
+# Python önbellek ve derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortamlar (Virtual Environments)
+venv/
+env/
+ENV/
+.venv
+
+# Hassas ortam değişkenleri ve yapılandırmalar
+.env
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
